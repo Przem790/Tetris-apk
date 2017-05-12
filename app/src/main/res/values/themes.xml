@@ -1,0 +1,5 @@
+<resources>
+    <style name="MyAppTheme" parent="android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:buttonStyle">@style/custombutton</item>
+    </style>
+</resources>
